@@ -4,7 +4,6 @@ Software Engineering Day1 Assignment
 Part 1: Introduction to Software Engineering
 
 1. Explain what software engineering is and discuss its importance in the technology industry.
-   
 Software engineering is the field that applies engineering principles to the design, development, and maintenance of software. It is a systematic approach that ensures software is reliable, scalable, and meets user requirements. Its importance in the tech industry lies in enabling the creation of complex systems with high-quality standards, helping drive innovation and support businesses worldwide.
 
 2. Identify and describe at least three key milestones in the evolution of software engineering.
@@ -14,7 +13,6 @@ b. Development of Object-Oriented Programming (OOP) (1970s-80s): Enabled reusabi
 c. Rise of Agile Methodology (2000s): Shifted focus to iterative, collaborative processes that adapt quickly to changes in requirements, greatly enhancing team productivity and flexibility.
 
 3. List and briefly explain the phases of the Software Development Life Cycle.
-
 a. Requirement Gathering and Analysis: Understanding user needs and system requirements.
 b. Design: Creating architecture and detailed design documents.
 c. Implementation: Writing and assembling code according to design specifications.
